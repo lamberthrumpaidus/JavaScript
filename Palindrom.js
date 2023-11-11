@@ -10,7 +10,7 @@
 }
 
 // Contoh penggunaan di lingkungan konsol
-const kata = "A man, a plan, a canal, Panama"; // Ganti dengan kata yang ingin Anda periksa
+const kata = "katak"; // Ganti dengan kata yang ingin Anda periksa
 
 if (isPalindrome(kata)) {
     console.log(`${kata} ini adalah palindrome`);
