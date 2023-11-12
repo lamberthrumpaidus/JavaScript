@@ -11,7 +11,7 @@ Semua program dalam repositori ini dikembangkan menggunakan bahasa pemrograman J
 
 ## Cara Menggunakan Program
 1. Instal runtime JavaScript atau gunakan browser web dengan mesin JavaScript bawaan jika belum terinstal di komputer Anda.
-2. Clone repositori ini ke komputer Anda: `git clone https://github.com/your-github-username/javascript.git`
+2. Clone repositori ini ke komputer Anda: `git clone https://github.com/LamberthPaulinusRumpaidus/javascript.git`
 3. Masuk ke direktori repositori: `cd javascript`
 4. Tergantung pada programnya, Anda mungkin perlu membuka file HTML di browser web atau menjalankan file JavaScript menggunakan lingkungan runtime.
 5. Jalankan program sesuai petunjuk yang ada dalam dokumentasi program.
