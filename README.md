@@ -4,7 +4,7 @@
 Repositori "javascript" ini berisi berbagai program yang dikembangkan menggunakan bahasa pemrograman JavaScript. Program-program tersebut mencakup berbagai topik dan kasus penggunaan. Di dalam repositori ini, Anda akan menemukan contoh kode, proyek-proyek, dan berbagai alat yang dibangun dengan JavaScript.
 
 ## Tentang Penulis
-Repositori ini dibuat oleh [lamberthpaulinusrumpaidus](https://github.com/lamberthpaulinusrumpaidus), seorang pengembang perangkat lunak dengan minat dalam bahasa pemrograman JavaScript, yang berbagi berbagai program yang dikembangkan dengan bahasa ini.
+Repositori ini dibuat oleh [lamberthrumpaidus](https://github.com/lamberthrumpaidus), seorang pengembang perangkat lunak dengan minat dalam bahasa pemrograman JavaScript, yang berbagi berbagai program yang dikembangkan dengan bahasa ini.
 
 ## Bahasa Pemrograman
 Semua program dalam repositori ini dikembangkan menggunakan bahasa pemrograman JavaScript.
